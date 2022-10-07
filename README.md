@@ -10,12 +10,12 @@
 - 🤔 I’m looking for help
 - 💬 You can ask me about python
 
-## My GitHub Statics
+## My GitHub Statistics
 
 ![](https://github.com/antaresmugisho/GithubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/antaresmugisho/GithubStats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
-- ## 📫 How to reach me: 
+## 📫 How to reach me: 
 - E-mail   : [antaresmugisho@gmail.com](mailto:antaresmugisho@gmail.com)
 - Messenger: [Antares Mugisho](m.me/Antaresmugisho)
 - WhatsApp : [+243 97 90 47 269](wa.me/243979047269)
