@@ -17,10 +17,11 @@
 
 ## 📫 How to reach me: 
 - E-mail   : [antaresmugisho@gmail.com](mailto:antaresmugisho@gmail.com)
-- Messenger: [Antares Mugisho](m.me/Antaresmugisho)
-- WhatsApp : [+243 97 90 47 269](wa.me/243979047269)
+- Messenger: [Antares Mugisho](https://m.me/Antaresmugisho)
+- WhatsApp : [+243 97 90 47 269](https://wa.me/243979047269)
 
-- ⚡ Fun fact: __We live We love We die !__
+## ⚡ Fun fact 
+__We live We love We die !__
 
 
 <!---
