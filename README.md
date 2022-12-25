@@ -10,8 +10,6 @@
 - 🤔 I’m looking for help
 - 💬 You can ask me about python
 
-## My GitHub Statistics
-
 ![](https://github.com/antaresmugisho/GithubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/antaresmugisho/GithubStats/blob/master/generated/overview.svg#gh-dark-mode-only)
 
