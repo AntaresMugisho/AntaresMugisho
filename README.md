@@ -17,7 +17,7 @@ Constantly exploring new technologies and building innovative solutions to solve
 
 ## 🚀 Projects
 
-Please refer to [my repositories](https://github.com/AntaresMugisho?tab=repositories) where you'll find a suite of Python scripts for ethical hacking and cybersecurity enhancement, desktop applications, mobile applications and responsive websites.
+Please refer to my public [repositories](https://github.com/AntaresMugisho?tab=repositories) where you'll find a suite of Python scripts for ethical hacking and cybersecurity enhancement, desktop applications, mobile applications and responsive websites.
 
 ## 🛠️ Skills
 
