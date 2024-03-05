@@ -17,7 +17,7 @@ Constantly exploring new technologies and building innovative solutions to solve
 
 ## 🚀 Projects
 
-Please refer to my github repositories where you'll find a suite of Python scripts for ethical hacking and cybersecurity enhancement, mobile applications and responsive websites.
+Please refer to [my repositories](https://github.com/AntaresMugisho?tab=repositories) where you'll find a suite of Python scripts for ethical hacking and cybersecurity enhancement, desktop applications, mobile applications and responsive websites.
 
 ## 🛠️ Skills
 
@@ -34,7 +34,7 @@ Please refer to my github repositories where you'll find a suite of Python scrip
 ## 📫 Get in Touch
 
 - LinkedIn: [Antares Mugisho](https://www.linkedin.com/in/antares-mugisho-5803b6233)
-- Website: [antares.dev](antaresmugisho.vercel.app)
+- Website: [antares.dev](https://antaresmugisho.vercel.app)
 - Email: [antaresmugisho@gmail.com](mailto:antaresmugisho@gmail.com)
 
 Let's connect and collaborate on exciting projects together ! 😊
