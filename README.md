@@ -34,7 +34,7 @@ Please refer to my public [repositories](https://github.com/AntaresMugisho?tab=r
 ## 📫 Get in Touch
 
 - LinkedIn: [Antares Mugisho](https://www.linkedin.com/in/antares-mugisho-5803b6233)
-- Website: [antares.dev](https://antaresmugisho.vercel.app)
+- Website: [antaresm.dev](https://antaresmugisho.vercel.app)
 - Email: [antaresmugisho@gmail.com](mailto:antaresmugisho@gmail.com)
 
 Let's connect and collaborate on exciting projects together ! 😊
