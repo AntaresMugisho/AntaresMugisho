@@ -7,6 +7,8 @@ Passionate developer with a diverse skill set in software development, web and m
 
 Constantly exploring new technologies and building innovative solutions to solve real-world problems.
 
+![GitHub stats](https://github-readme-stats-eight-xi-41.vercel.app/api?username=antaresmugisho&show_icons=true&include_all_commits=false&theme=tokyonight&border_radius=8&border_color=A012FF&custom_title=My%20Github%20stats)
+
 ## 💼 Professional Experience
 
 - **Software Developer:** Developed desktop solutions using **Python** and **PySide**, including cybersecurity scripts and ethical hacking tools.
@@ -19,7 +21,7 @@ Constantly exploring new technologies and building innovative solutions to solve
 
 Please refer to my public [repositories](https://github.com/AntaresMugisho?tab=repositories) where you'll find a suite of Python scripts for ethical hacking and cybersecurity enhancement, desktop applications, mobile applications and responsive websites.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antaresmugisho&repo=ar_intercom&theme=transparent&border_color=555555)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Repository Card](https://github-readme-stats-eight-xi-41.vercel.app/api/pin/?username=antaresmugisho&repo=hiking&theme=transparent&border_color=555555)-->
 
 ## 🛠️ Skills
 
@@ -29,11 +31,7 @@ Please refer to my public [repositories](https://github.com/AntaresMugisho?tab=r
 - **Web Frameworks:** Django, Laravel
 - **Database Management:** SQLite, MySQL, MongoDB
 
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=antaresmugisho&show_icons=true&theme=tokyonight&border_radius=8&border_color=A012FF&custom_title=My%20Github%20stats)](https://github.com/antaresmugisho/github-readme-stats)
-
-<!--![](https://github.com/antaresmugisho/GithubStats/blob/master/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/antaresmugisho/GithubStats/blob/master/generated/overview.svg#gh-dark-mode-only)-->
+![Top Langs](https://github-readme-stats-eight-xi-41.vercel.app/api/top-langs/?username=antaresmugisho&layout=compact&hide=hack,css&theme=tokyonight&border_radius=8&border_color=A012FF)
 
 
 ## 📫 Get in Touch
