@@ -33,6 +33,7 @@ Please refer to my public [repositories](https://github.com/AntaresMugisho?tab=r
 
 ![Top Langs](https://github-readme-stats-eight-xi-41.vercel.app/api/top-langs/?username=antaresmugisho&layout=compact&hide=hack,css&theme=tokyonight&border_radius=8&border_color=A012FF)
 
+Furthermore, my aptitude for collaboration and teamwork enables me to make significant contributions to complex projects.
 
 ## 📫 Get in Touch
 
