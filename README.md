@@ -15,7 +15,7 @@ Constantly exploring new technologies and building innovative solutions to solve
 
 - **Web Developer:** I've had the privilege of designing and developing responsive websites, leveraging the latest and most innovative technologies available in the field. These include **Django** and the most famous [**TALL Stack**](https://tallstack.dev).
 
-- **Mobile App Developer:** Created cross-platform mobile applications with **Flutter** and **Dart** for optimal performance and user experience.
+- **Mobile App Developer:** Created cross-platform mobile applications with **React Native** for optimal performance and user experience.
 
 ## 🚀 Projects
 
@@ -25,10 +25,10 @@ Please refer to my public [repositories](https://github.com/AntaresMugisho?tab=r
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python, Dart
-- **UI Frameworks:** PySide, Flutter
+- **Programming Language:** Python
+- **UI Frameworks:** PySide, React Native
 - **Web Technologies:** HTML, CSS, JavaScript, PHP
-- **Web Frameworks:** Django, Laravel
+- **Web Frameworks:** React, Django, Laravel
 - **Database Management:** SQLite, MySQL, MongoDB
 
 ![Top Langs](https://github-readme-stats-eight-xi-41.vercel.app/api/top-langs/?username=antaresmugisho&layout=compact&hide=hack,css&theme=tokyonight&border_radius=8&border_color=A012FF)
