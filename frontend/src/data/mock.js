@@ -1,3 +1,5 @@
+import CryptoJS from 'crypto-js';
+
 // Mock data for the portfolio
 export const mockData = {
   personal: {
@@ -6,7 +8,7 @@ export const mockData = {
     email: "antaresmugisho@gmail.com",
     bio: "Passionate full-stack developer with expertise spanning web, mobile, and desktop applications. I specialize in building scalable solutions using modern technologies like Python, JavaScript, and PHP. With a strong background in cybersecurity, I ensure that security is built into every application I develop. I love creating user-friendly interfaces and robust backend systems that solve real-world problems.",
     location: "Available Worldwide",
-    avatar: `https://www.gravatar.com/avatar/5d5b2e3b6d8e0b3c4a7b8c9d2e3f4a5b?s=400&d=identicon`,
+    avatar: `https://www.gravatar.com/avatar/${CryptoJS.MD5('antaresmugisho@gmail.com').toString()}?s=400&d=identicon`,
     social: {
       github: "https://github.com/yourusername",
       linkedin: "https://linkedin.com/in/yourusername",
