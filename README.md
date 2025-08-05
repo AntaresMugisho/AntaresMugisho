@@ -38,8 +38,8 @@ Furthermore, my aptitude for collaboration and teamwork enables me to make signi
 ## 📫 Get in Touch
 
 - LinkedIn: [Antares Mugisho](https://www.linkedin.com/in/antares-mugisho-5803b6233)
-- Website: [antaresm.dev](https://antaresmugisho.vercel.app)
-- Email: [antaresmugisho@gmail.com](mailto:antaresmugisho@gmail.com)
+- Website: [antaresmugisho.com](https://antaresmugisho.com)
+- Email: [antaresmugisho@gmail.com](mailto:hi@antaresmugisho.com)
 
 Let's connect and collaborate on exciting projects together ! 😊
 
