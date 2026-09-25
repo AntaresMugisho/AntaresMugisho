@@ -39,7 +39,7 @@ Furthermore, my aptitude for collaboration and teamwork enables me to make signi
 
 - LinkedIn: [Antares Mugisho](https://www.linkedin.com/in/antares-mugisho-5803b6233)
 - Website: [antaresmugisho.com](https://antaresmugisho.com)
-- Email: [antaresmugisho@gmail.com](mailto:hi@antaresmugisho.com)
+- Email: [hi@antaresmugisho.com](mailto:hi@antaresmugisho.com)
 
 Let's connect and collaborate on exciting projects together ! 😊
 
